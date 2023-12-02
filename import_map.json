@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/freego/": "./",
+
     "deco-sites/blackfriday-lp/": "./",
 
     "$store/": "./",
